@@ -1,9 +1,9 @@
-<h1 align="center"> 𝐗𝐏𝐋𝐎𝐀𝐃𝐄𝐑 𝐁𝐎𝐓 </h1>
+<h1 align="center"> 𝐊𝐀𝐍𝐆𝐎-𝐗𝐌𝐃 𝐁𝐎𝐓 </h1>
 <h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.0.0 </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/XPLOADER--BOT">
-    <img alt="xploader docs" height="400" src="https://i.ibb.co/DRW8wCV/Xploader4.jpg">
+    <img alt="kango docs" height="400" src="https://i.imgur.com/GVW7aoD.jpeg">
   </a>
 </p>
     
