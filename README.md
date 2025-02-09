@@ -15,14 +15,14 @@
 <a href="https://t.me/official_kango2"><img title="Author" src="https://img.shields.io/badge/KANGO-XMD BOT-skyblue?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?&style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER--BOT?style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/XPLOADER--BOT?label=Watching&style=social"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Stars" src="https://img.shields.io/github/stars/Kango/KANGOXMD-BOT?&style=social"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HECTOR/KANGO BOT?style=social"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HECTOR/KANGO-BOT?label=Watching&style=social"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dark-Xploit}/count.svg" alt="XPLOADER--BOT:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="XPLOADER--BOT:: Visitor's Count" /></p>
 
 
-<h3>XPLOADER STATS</h3>
+<h3>KANGO STATS</h3>
 
 <p align="center">
 <a href="https://github.com/Dark-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?color=orange&style=flat-square"></a>
