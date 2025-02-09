@@ -16,32 +16,32 @@
 <p/>
 <p align="center">
 <a href="https://github.com/OfficialKango/KANGO-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kango/KANGOXMD-BOT?&style=social"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HECTOR/KANGO BOT?style=social"></a>
-<a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HECTOR/KANGO-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="Fork" src="https://img.shields.io/github/forks/HECTOR/KANGO BOT?style=social"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/subscription"><img title="Watching" src="https://img.shields.io/github/watchers/HECTOR/KANGO-BOT?label=Watching&style=social"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="XPLOADER--BOT:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="KANGO-BOT:: Visitor's Count" /></p>
 
 
 <h3>KANGO STATS</h3>
 
 <p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?color=orange&style=flat-square"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER--BOT?color=orange&style=flat-square"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/XPLOADER--BOT?label=Watchers&color=orange&style=flat-square"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT"><img title="Open Source" src="https://img.shields.io/badge/Author-Tylor-orange?v=103"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/Dark-Xploit/XPLOADER--BOT?style=flat-square&color=orange"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDark-Xploit%2FXPLOADER--BOT&count_bg=%23FFA500&title_bg=%23555555&icon=probot.svg&icon_color=%23FFA500&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-Yes-orange.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/OfficialKango/KANGO-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/HECTOR/KANGO-BOT?color=orange&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/subscription"><img title="Forks" src="https://img.shields.io/github/forks/HECTIR/KANGO-BOT?color=orange&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/subscription"><img title="Watching" src="https://img.shields.io/github/watchers/HECTOR/KANGO-BOT?label=Watchers&color=orange&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Open Source" src="https://img.shields.io/badge/Author-tylor-orange?v=103"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Size" src="https://img.shields.io/github/repo-size/Official_Kango/KANGO-XMD?style=flat-square&color=orange"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHECTOR%2KAMGO-XMDBOT&count_bg=%23FFA500&title_bg=%23555555&icon=probot.svg&icon_color=%23FFA500&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/OfficialKango/KAMGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-Yes-orange.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
   
-## 🛠️ `XPLOADER INSTALATION`
+## 🛠️ `KANGO INSTALATION`
 1. Fork and star this repo first
     <br>
     <p align="center">
-<a href='https://github.com/Dark-Xploit/XPLOADER--BOT/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/></a>
+<a href='https://github.com/OfficialKango/KANGO-XMD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/></a>
 
 2. GET SESSION
     <br>
