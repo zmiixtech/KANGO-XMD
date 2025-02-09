@@ -2,8 +2,8 @@
 <h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.0.0 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/XPLOADER--BOT">
-    <img alt="kango docs" height="400" src="https://i.imgur.com/GVW7aoD.jpeg">
+  <a href="https://github.com/OfficialKango/KANGO-XMD/">
+    <img alt="kango docs" height="300" src="https://i.imgur.com/GVW7aoD.jpeg">
   </a>
 </p>
     
