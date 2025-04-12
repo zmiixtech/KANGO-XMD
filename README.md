@@ -8,12 +8,12 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
    </p>
 <p align="center">
-<a href="https://github.com/Matri199"><img title="Author" src="https://img.shields.io/badge/Matrix King-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@matrix-zat"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233593734312"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/OfficialKango"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/Matri199/followers"><img title="Followers" src="https://img.shields.io/github/followers/Matri199?color=purple&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-Adiza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Matri199/QUEEN-ADIZA?color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/Matri199?color=purple&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Matri199/Queen-Adiza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Matri199/Queen-Adiza?color=blue&style=flat-square"></a>
 <a href="https://github.com/Matri199/Queen-Adiza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Matri199/Queen-Adiza?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Matri199/Queen-Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/Matri199/Queen-Adiza?style=flat-square&color=green"></a>
