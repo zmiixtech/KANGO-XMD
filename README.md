@@ -12,11 +12,11 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 <p/> 
 
  <p align="center">
-<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/Matri199?color=purple&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-Adiza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-Adiza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
 <p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="OfficialKango :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
@@ -41,7 +41,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-ADIZA-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
