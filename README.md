@@ -14,24 +14,24 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
  <p align="center">
 <a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/Matri199?color=purple&style=flat-square"></a>
 <a href="https://github.com/OfficialKango/KANGO-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-Adiza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Matri199/Queen-Adiza?color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-Adiza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Matri199/Queen-Adiza?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/Matri199/Queen-Adiza?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FQueen-Adiza&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Matri199/Queen-Adiza/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{Queen-Adiza}/count.svg" alt="Matri199 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Matri199}/count.svg" /></p>
+<a href="https://github.com/Matri199/Queen-Adiza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Matri199/Queen-Adiza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Matri199/Queen-Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="OfficialKango :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/Matri199/Queen-"Adiza"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=QUEEN-ADIZA&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/OfficialKango/KANGO-XMD"Kango"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KANGO-XMD&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/Matri199/Queen-Adiza"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `QUEEN ADIZA INSTALLATION`
+## 🛠️ `KANGO-XMD INSTALLATION`
 
 
 
@@ -41,7 +41,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/Matri199/Queen-Adiza/fork"><img title="Queen-Adiza-V2" src="https://img.shields.io/badge/FORK-ADIZA-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-ADIZA-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -49,7 +49,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 
 > To deploy on render , generate your session ID from the link below:
 <p align="left">
-  <a href="https://adiza-session.onrender.com/?">
+  <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
@@ -57,13 +57,13 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMatri199%2FQueen-Adiza) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD) 
 
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/Matri199/Queen-Adiza)
+[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/OfficialKango/KANGO-XMD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -71,7 +71,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-* `Fork` QUEEN ADIZA Repository or `sync` if you had forked.
+* `Fork` KANGO-XMD Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
 * Incase you use Server 2, paste the session id on settings.js @SESSION_ID
 * If you used Server 3, upload the `creds.json` received in the `session` folder.
@@ -95,13 +95,13 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 <br>
 > Click below to download the bot file :
 <p align="left">
-<a href="https://github.com/Matri199/Queen-Adiza/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
   
 > Click below to deploy on Katabump :
 <p align="left">
-  <a href="https://dashboard.katabump.com/auth/login#203630">
+  <a href="https://dashboard.katabump.com/welcome/#14aeb2">
     <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
   </a>
 <br>
@@ -109,7 +109,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
   
 > Click below to deploy on Bot-Hosting :
 <p align="left">
-  <a href="https://bot-hosting.net/?aff=1231885228566646795">
+  <a href="https://bot-hosting.net/?aff=1132461929839984758">
     <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
   </a>
 </p>
@@ -152,8 +152,8 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/Matri199/Queen-Adiza.git
-cd Queen-Adiza 
+git clone https://github.com/OfficialKango/KANGO-XMD.git
+cd KANGO-XMD 
 npm start
 ```
 
@@ -168,8 +168,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/Matri199/Queen-Adiza
-cd Queen-Adiza
+git clone https://github.com/OfficialKango/KANGO-XMD.git
+cd KANGO-XMD
 npm install
 npm start
 ```
@@ -200,7 +200,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© MATRIX Bot**
+**© KANGO Bot**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
