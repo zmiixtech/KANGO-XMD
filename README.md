@@ -37,7 +37,7 @@ src="https://i.imgur.com/GVW7aoD.jpeg">
 
 1. Fork and star this repo first
 
-Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
+Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
   <br>
     <p align="left">
