@@ -47,7 +47,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
-> To deploy on render , generate your session ID from the link below:
+> Generate your session ID from the link below:
 <p align="left">
   <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
@@ -82,7 +82,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search Queen Adiza, and connect.
+* Search KANGO-XMD, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
