@@ -197,7 +197,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 ## Credits
 
 - [Hector](https://github.com/OfficialKango)
-- [Baileys](https://github.com/adiwajshing/Baileys)
+- [Baileys](https://github.com/WhiskeySockets)
 - [Cypher-X](https://github.com/Dark-Xploit) 
 - [Matrix](https://github.com/Matri199)
 
