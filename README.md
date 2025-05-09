@@ -194,6 +194,13 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 ```
 </details>
 
+## Credits
+
+- [Hector](https://github.com/OfficialKango)
+- [Baileys](https://github.com/adiwajshing/Baileys)
+- [Cypher-X](https://github.com/Dark-Xploit) 
+- [Matrix](https://github.com/Matri199)
+
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
