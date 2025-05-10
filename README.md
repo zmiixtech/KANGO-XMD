@@ -67,6 +67,9 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/_RsRny?referralCode=wvGQ0H)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
