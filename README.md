@@ -55,6 +55,13 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
+<p align="left">
+  <a href="https://kango-ef1f620b32d8.herokuapp.com/pair?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
+  </a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
 ## `DEPLOYMENTS`
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD) 
