@@ -1,10 +1,10 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : KANGO-XMD 
+// @project_name : 𝒁𝑴𝑰𝑰𝑿 𝑩𝑶𝑻 
 // @author : Hector 
 // @telegram : http://t.me/official_kango
-// @github : OfficialKango
-// @whatsapp : +233509977126
+// @github : zmiixtech
+// @whatsapp : +212776003604
 
 //----------------------[ KANGO-XMD ]----------------------//
 
@@ -15,16 +15,16 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'KANGO~xnU21S7S#7SoA8ouHM8e9sfdZ-SKAhx5o1PtBzpLbkbFTrSEq2OA' 
 //Enter your KANGO-XMD session id here; must start with KANGO~
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'KANGO-XMD' 
+global.botname = process.env.BOT_NAME || '𝒁𝒎𝒊𝒊𝒙-𝑩𝒐𝒕' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '212776003604' 
 
 //--------------------[ SUDO ]--------------------------//
 
@@ -34,15 +34,15 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['233509977126', 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'ZMIIX TECH' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "KANGO-XMD" 
+global.packname = process.env.STICKER_PACK_NAME || "𝒁𝑴𝑰𝑰𝑿-𝑩𝒐𝒕" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "ZMIIX" 
 
 //----------------[ GITHUB DATABASE ]-----------------//
 
